@@ -14,13 +14,13 @@ function App() {
             <div className="collapse navbar-collapse" id="navbarNav">
               <ul className="navbar-nav ml-auto">
                 <li className="nav-item">
-                  <a className="nav-link" href="#">Home</a>
+                  <a className="nav-link" href="javascript:void(0)">Home</a>
                 </li>
                 <li className="nav-item">
-                  <a className="nav-link" href="#">About</a>
+                  <a className="nav-link" href="javascript:void(0)">About</a>
                 </li>
                 <li className="nav-item">
-                  <a className="nav-link" href="#">Contact</a>
+                  <a className="nav-link" href="javascript:void(0)">Contact</a>
                 </li>
               </ul>
             </div>
