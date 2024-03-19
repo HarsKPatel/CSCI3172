@@ -13,7 +13,7 @@ function App() {
               <div className="card-body">
                 <h5 className="card-title">Tour-1</h5>
                 <p className="card-text">Excepteur consectetur id adipisicing ut proident in.</p>
-                <a href="#" className="btn btn-primary">Click here for more info</a>
+                <button className="btn btn-primary">Click here for more info</button>
               </div>
             </div>  
           </div>
@@ -23,7 +23,7 @@ function App() {
               <div className="card-body">
                 <h5 className="card-title">Tour-2</h5>
                 <p className="card-text">Excepteur consectetur id adipisicing ut proident in.</p>
-                <a href="#" className="btn btn-primary">Click here for more info</a>
+                <button className="btn btn-primary">Click here for more info</button>
               </div>
             </div>`
           </div>
@@ -33,7 +33,7 @@ function App() {
               <div className="card-body">
                 <h5 className="card-title">Tour-3</h5>
                 <p className="card-text">Excepteur consectetur id adipisicing ut proident in.</p>
-                <a href="#" className="btn btn-primary">Click here for more info</a>
+                <button className="btn btn-primary">Click here for more info</button>
               </div>
             </div>`
           </div>
